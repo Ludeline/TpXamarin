@@ -13,11 +13,15 @@ namespace Test8242Tp3Xamarin
         public MainPage()
         {
             InitializeComponent();
+            System.Diagnostics.Debug.WriteLine("Test dans le main");
+            Console.ReadLine();
             this.Connexion.Clicked += Connexion_Clicked;
         }
 
         private void Connexion_Clicked(object sender, EventArgs e)
         {
+            System.Diagnostics.Debug.WriteLine("Coucou voici le TP3 en Xamarin");
+            Console.ReadLine();
 
             if(this.Mail.Text.Length < 3 && this.Mail.Text != null)
             {

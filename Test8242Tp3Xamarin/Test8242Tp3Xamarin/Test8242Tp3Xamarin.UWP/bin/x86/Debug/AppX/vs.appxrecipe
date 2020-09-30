@@ -720,7 +720,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\bin\Debug\netstandard2.0\Test8242Tp3Xamarin.dll">
       <PackagePath>Test8242Tp3Xamarin.dll</PackagePath>
-      <Modified>2020-09-30T09:37:38.564</Modified>
+      <Modified>2020-09-30T09:58:46.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hocha\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
