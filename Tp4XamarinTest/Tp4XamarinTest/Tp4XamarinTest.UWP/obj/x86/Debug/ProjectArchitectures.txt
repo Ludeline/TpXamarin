@@ -1,0 +1,1 @@
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest.UWP\Tp4XamarinTest.UWP.csproj;x86

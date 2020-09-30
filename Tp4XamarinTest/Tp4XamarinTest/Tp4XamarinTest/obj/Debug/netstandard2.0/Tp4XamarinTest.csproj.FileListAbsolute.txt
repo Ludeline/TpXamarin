@@ -1,0 +1,14 @@
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\bin\Debug\netstandard2.0\Tp4XamarinTest.deps.json
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\bin\Debug\netstandard2.0\Tp4XamarinTest.dll
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\bin\Debug\netstandard2.0\ref\Tp4XamarinTest.dll
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\bin\Debug\netstandard2.0\Tp4XamarinTest.pdb
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\Tp4XamarinTest.csprojAssemblyReference.cache
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\Tp4XamarinTest.AssemblyInfoInputs.cache
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\Tp4XamarinTest.AssemblyInfo.cs
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\Tp4XamarinTest.csproj.CoreCompileInputs.cache
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\Tp4XamarinTest.dll
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\ref\Tp4XamarinTest.dll
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\Tp4XamarinTest.pdb
