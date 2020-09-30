@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tp4XamarinTest.Views.TweetView">
+  <ContentView.Content>
+        <StackLayout>
+            <!--<ContentView>
+                -->
+            <!--<Grid HorizontalOptions="FillAndExpand">-->
+            <!--
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="75"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="25"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <StackLayout Margin="12" WidthRequest="30" HeightRequest="60" BackgroundColor="Black"></StackLayout>
+                    <Label x:Name="Author" Text="Antoine" Grid.Row="0" Grid.Column="1"></Label>
+                    <Label x:Name="Email" Text="@AntoineTweet" Grid.Row="0" Grid.Column="2"></Label>
+                    <Label x:Name="LastUpdate" Text="50s" TextColor="Gray" Grid.Row="0" Grid.Column="3"></Label>
+                    <Label x:Name="Data" Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod
+convallis dolor. Quisque ultricies porttitor nunc venenatis facilisis." Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3"></Label>
+                </Grid>
+            </ContentView>-->
+
+            <!--Personne qui Tweet infos-->
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Margin="20,5">
+                <!--Pour le carré noir juste-->
+                <StackLayout Margin="12" WidthRequest="30" HeightRequest="60" BackgroundColor="Black"></StackLayout>
+                <!--FillAndExpand == Structure LayoutOptions décrivant un élément qui n’a aucun remplissage autour de lui-même et se développe.-->
+                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal">
+                        <Label x:Name="Author" Text="cedric" TextColor="Black"></Label>
+                        <Label x:Name="Email" Text="@cedricmillauriaux" TextColor="Black"></Label>
+                        <Label x:Name="LastUpdate" Text="50s" TextColor="Black" HorizontalOptions="EndAndExpand"></Label>
+                    </StackLayout>
+                    <Label x:Name="Data" Text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.  " TextColor="Black"></Label>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

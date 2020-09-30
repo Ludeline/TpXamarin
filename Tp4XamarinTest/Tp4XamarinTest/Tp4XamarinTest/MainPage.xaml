@@ -47,6 +47,9 @@
                     </StackLayout>
                 </StackLayout>
 
+                <StackLayout x:Name="StacklayoutTweets">
+                </StackLayout>
+
                 <!--Test bar Tweetage-->
                 <StackLayout Orientation="Horizontal">
                     <Label Text="Répondre" HorizontalOptions="FillAndExpand" TextColor="Gray" HorizontalTextAlignment="Center"/>

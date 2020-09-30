@@ -12,7 +12,7 @@ namespace Tp4XamarinTest.Services
             //Si le couple mail mdp = Ok alors retourne true
             bool connexionOK = false;
 
-            if(user.Equals("hello") && password.Equals("mdp"))
+            if(user.Equals("hello") && password.Equals("password"))
             {
                 connexionOK = true;
             }

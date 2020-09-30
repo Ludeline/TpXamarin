@@ -12,3 +12,4 @@ C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\D
 C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\Tp4XamarinTest.dll
 C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\ref\Tp4XamarinTest.dll
 C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\Tp4XamarinTest.pdb
+C:\Users\hocha\source\repos_2\Tp4XamarinTest\Tp4XamarinTest\Tp4XamarinTest\obj\Debug\netstandard2.0\Views\TweetView.xaml.g.cs
