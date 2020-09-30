@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Test2Tp2Xamarin.MainPage"
+             BackgroundColor="White">
+
+    <StackLayout>
+        <StackLayout Orientation="Horizontal" BackgroundColor="#58B0F0" Padding="25,10">
+            <ImageButton Source="pencil.png" WidthRequest="16"
+               HorizontalOptions="StartAndExpand" />
+            <Label Text="Accueil" TextColor="White" HorizontalOptions="CenterAndExpand"/>
+            <ImageButton Source="pencil.png" WidthRequest="16"
+               HorizontalOptions="EndAndExpand" />
+        </StackLayout>
+
+        <StackLayout BackgroundColor="White">
+            <StackLayout VerticalOptions="Center">
+                <Entry Placeholder="Mail id"></Entry>
+                <Entry Placeholder="Password" IsPassword="True"></Entry>
+                <Button Text="Log In" TextColor="White" BackgroundColor="White"></Button>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Switch x:Name="RememberMe" HorizontalOptions="Start" IsToggled="True"/>
+                <Label Text="RememberMe" VerticalTextAlignment="Center"/>
+            </StackLayout>
+            <Button x:Name="Connexion" Text="Connexion"/>
+        </StackLayout>
+
+        <ScrollView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <StackLayout Orientation="Vertical">
+                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                    <!--Personne qui Tweet infos-->
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Margin="20,5">
+                        <!--Pour le carré noir juste-->
+                        <StackLayout Margin="12" WidthRequest="30" HeightRequest="60" BackgroundColor="Black"></StackLayout>
+                        <!--FillAndExpand == Structure LayoutOptions décrivant un élément qui n’a aucun remplissage autour de lui-même et se développe.-->
+                        <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="cedric" TextColor="Black"></Label>
+                                <Label Text="@cedricmillauriaux" TextColor="Black"></Label>
+                                <Label Text="50s" TextColor="Black" HorizontalOptions="EndAndExpand"></Label>
+                            </StackLayout>
+                            <Label Text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.  " TextColor="Black"></Label>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+
+                <!--Test bar Tweetage-->
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Répondre" HorizontalOptions="FillAndExpand" TextColor="Gray" HorizontalTextAlignment="Center"/>
+                    <Label Text="Retweet" HorizontalOptions="FillAndExpand" TextColor="Gray" HorizontalTextAlignment="Center"/>
+                    <Label Text="Favoris" HorizontalOptions="FillAndExpand" TextColor="Gray" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+        
+        <StackLayout Orientation="Horizontal" Padding="20">
+            <Label TextColor="Gray" Text="Fil" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+            <Label TextColor="Gray" Text="Notification" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+            <Label TextColor="Gray" Text="Messages" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+            <Label TextColor="Gray" Text="Moi" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
