@@ -1,0 +1,14 @@
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\bin\Debug\netstandard2.0\Test8242Tp3Xamarin.deps.json
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\bin\Debug\netstandard2.0\Test8242Tp3Xamarin.dll
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\bin\Debug\netstandard2.0\ref\Test8242Tp3Xamarin.dll
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\bin\Debug\netstandard2.0\Test8242Tp3Xamarin.pdb
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\Test8242Tp3Xamarin.csprojAssemblyReference.cache
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\Test8242Tp3Xamarin.AssemblyInfoInputs.cache
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\Test8242Tp3Xamarin.AssemblyInfo.cs
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\Test8242Tp3Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\Test8242Tp3Xamarin.dll
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\ref\Test8242Tp3Xamarin.dll
+C:\Users\hocha\source\repos_2\Test8242Tp3Xamarin\Test8242Tp3Xamarin\Test8242Tp3Xamarin\obj\Debug\netstandard2.0\Test8242Tp3Xamarin.pdb
