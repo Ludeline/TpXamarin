@@ -1,0 +1,15 @@
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\bin\Debug\netstandard2.0\Tp5XamarinHopeForTheBest.deps.json
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\bin\Debug\netstandard2.0\Tp5XamarinHopeForTheBest.dll
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\bin\Debug\netstandard2.0\ref\Tp5XamarinHopeForTheBest.dll
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\bin\Debug\netstandard2.0\Tp5XamarinHopeForTheBest.pdb
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\Tp5XamarinHopeForTheBest.csprojAssemblyReference.cache
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\Views\TweetView.xaml.g.cs
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\Tp5XamarinHopeForTheBest.AssemblyInfoInputs.cache
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\Tp5XamarinHopeForTheBest.AssemblyInfo.cs
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\Tp5XamarinHopeForTheBest.csproj.CoreCompileInputs.cache
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\Tp5XamarinHopeForTheBest.dll
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\ref\Tp5XamarinHopeForTheBest.dll
+C:\Users\hocha\source\repos_2\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\Tp5XamarinHopeForTheBest\obj\Debug\netstandard2.0\Tp5XamarinHopeForTheBest.pdb
