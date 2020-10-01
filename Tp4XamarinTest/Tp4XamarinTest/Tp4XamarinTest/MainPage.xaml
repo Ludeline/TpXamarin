@@ -13,7 +13,7 @@
                HorizontalOptions="EndAndExpand" />
         </StackLayout>
 
-        <StackLayout BackgroundColor="White">
+        <StackLayout x:Name="FormulaireConnexion" BackgroundColor="White">
             <StackLayout VerticalOptions="Center">
                 <Entry x:Name="Mail" Placeholder="Mail id"></Entry>
                 <Entry x:Name="Password" Placeholder="Password" IsPassword="True"></Entry>

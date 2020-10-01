@@ -49,11 +49,22 @@ namespace Tp4XamarinTest
                 this.Errors.Text = "Votre MDP n'est pas bon.";
             }
 
-            if (this.Mail.Text.Length >= 3 && this.Password.Text.Length >= 6)
+            if (this.Mail.Text.Length >= 3 && this.Password.Text.Length >= 6 && this.twitterService.Authentificate(this.Mail.Text, this.Password.Text))
             {
-                this.Vue.IsVisible = true;
+                //this.Vue.IsVisible = true;
 
-            }
-        }
+                //Pour se connecter avec le bon mdp & "mail"
+                //if()
+                //{
+                    this.Vue.IsVisible = true;
+                    this.FormulaireConnexion.IsVisible = false;
+                    this.Errors.IsVisible = false;
+                //}
+        } else
+                {
+                    this.Errors.IsVisible = true;
+                    this.Errors.Text = "Vos identifiants ne sont pas bons";
+                }
+}
     }
 }
